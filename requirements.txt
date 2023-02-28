@@ -1,0 +1,8 @@
+opencv-contrib-python==4.7.0.72
+opencv-python==4.7.0.72
+pandas
+numpy
+imgaug
+argparse
+os
+tqdm
